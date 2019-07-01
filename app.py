@@ -70,4 +70,4 @@ async def on_message(message):
     print('{}: {}'.format(author, content))
 
 
-client.run('NTg3Njk5ODk3MjYwODM0ODE2.XRn1nw.yL2ru41rn1q8jwQfDLGInS_Se2U')
+client.run('DISCORD_TOKEN')
