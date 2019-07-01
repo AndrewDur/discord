@@ -1,1 +1,1 @@
-worker: Botolski.py
+worker: app.py
